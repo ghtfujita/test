@@ -4,4 +4,5 @@ graph TD;
  A -->C
  a -->b
  b --> c
+ b --> c
 ```
