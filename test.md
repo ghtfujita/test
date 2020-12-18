@@ -5,5 +5,6 @@ graph TD;
  a -->b
  b --> c
  b --> c
- b --> d
+ b --> d{s}
+ 
 ```
